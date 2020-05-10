@@ -9,14 +9,14 @@ body {
 }
 
 .app {
-  background-image: url('./assets/cold-bg.jpg');
+  background-image: url('https://ibb.co/rQVDFgR');
   background-size: cover;
   background-position: bottom;
   transition: 4s ease;
 }
 
 .app.warm {
-  background-image: url('./assets/warm-bg.jpg');
+  background-image: url('https://ibb.co/dbT0s1G');
 }
 
 main {
